@@ -48,7 +48,7 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
-[![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=dracula)](https://github.com/machadop1407/github-readme-stats)
+[![Furkan Ayilmaz's Github States](https://github-readme-stats.vercel.app/api?username=furkanayilmaz&show_icons=true&theme=dracula)](https://github.com/furkanayilmaz/github-readme-stats)
 
 
 
