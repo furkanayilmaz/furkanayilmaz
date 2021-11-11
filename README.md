@@ -42,6 +42,8 @@
 [instagram]: https://instagram.com/ayilmazfurkan67
 [linkedin]: https://linkedin.com/in/furkanayilmaz
 
+My Website: https://www.furkanayilmaz.com/
+
 
 [![Furkan Ayilmaz's Github States](https://github-readme-stats.vercel.app/api?username=furkanayilmaz&show_icons=true&theme=dracula)](https://github.com/furkanayilmaz/github-readme-stats)
 
