@@ -38,7 +38,6 @@
 ---
 
 [website]: https://www.furkanayilmaz.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/furkanayilmaz
 [instagram]: https://instagram.com/ayilmazfurkan67
 [linkedin]: https://linkedin.com/in/furkanayilmaz
