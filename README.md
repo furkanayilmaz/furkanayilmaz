@@ -2,12 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/furkanayilmaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffurkanayilmaz&screen_name=furkanayilmaz)
 
-## I'm a Backend Developer, Frontend Developer and Teacher!!
+## I'm a full-stack developer and trainer.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play video games (Call of Duty)
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love playing video games, especially Call of Duty.
 
 ### Connect with me:
 
