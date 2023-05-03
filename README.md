@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects & Build an app that all music lovers will use :)
-- ⚡ Fun fact: I love playing video games, especially Call of Duty.
+- ⚡ Fun fact: I love playing video games, listening music
 
 ### Connect with me:
 
